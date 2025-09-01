@@ -1,6 +1,6 @@
 # Saloni's First CS193 Homework
 
-# Some of my favorite things about CS193
+### Some of my favorite things about CS193
 - Learning Github related skills
 - Learn terminal commands
 - Create professional documents through LaTeX
