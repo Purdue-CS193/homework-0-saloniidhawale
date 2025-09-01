@@ -2,8 +2,8 @@
 
 ### Some of my favorite things about CS193
 - Learning Github related skills
-- Learn terminal commands
-- Create professional documents through LaTeX
+- Learning terminal commands
+- Creating professional documents through LaTeX
 
 
 ### Markdown
